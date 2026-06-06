@@ -24,7 +24,7 @@ Busco posição júnior em **front-end, IA aplicada ou produtos digitais** para 
   - - React & N8N (DIO — em estudo)
    
     - **IA & Engenharia de Prompt:**
-    - - Ferramentas: Claude, Gemini, ChatGPT, MidJourney, VEO3, Antigravity, Manus, Lovable
+    - - Ferramentas: Claude, Antigravity, Manus, Gemini, ChatGPT, MidJourney, VEO3, Lovable
       - - Técnicas: Chain-of-Thought, Few-Shot, Zero-Shot, RAG, Tree of Thoughts, Self-Consistency
        
         - **Design & Marketing:**
