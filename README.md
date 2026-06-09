@@ -38,7 +38,7 @@ Busco posição júnior em **front-end, IA aplicada ou produtos digitais** para 
 
             ## 📦 Projeto em Destaque
 
-            ### [Chelner](https://github.com/dev7davi) — SaaS para Autônomos *(em produção)*
+            ### [Chelner](https://chelner.com.br) — SaaS para Autônomos *(em produção)*
             Plataforma de gestão completa para profissionais autônomos.
             - CRM, agenda integrada com Google Calendar, financeiro, catálogo e assinaturas (Stripe)
             - - Push notifications, dark/light mode, interface responsiva
